@@ -20,4 +20,4 @@ Steps to clean data:
 6. Labeled the snacks by its preparation
 
 ### Headline: Cake by the pound: Data shows that unhealthy snacks are (insert percent) cheaper than fresh fruits
-    Nutgraf: New data by the USDA finds that American children's nutritional needs are primarily met by salty, sweet, and calorie dense snacks. Experts believe that the significant price differences between fresh produce and prepackaged snacks are to blame. 
+    Nutgraf New data by the USDA finds that American children's nutritional needs are primarily met by salty, sweet, and calorie dense snacks. Experts believe that the significant price differences between fresh produce and prepackaged snacks are to blame. 
